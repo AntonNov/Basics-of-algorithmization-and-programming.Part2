@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.005,D:\2_term_OAIP\7Lab\Project1PCH1.h=C:\Users\User\Desktop\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,=D:\2_term_OAIP\7Lab\Map.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,C:\Users\User\Desktop\MyApp.cpp=C:\Users\User\Desktop\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,C:\Users\DELL\Desktop\Labs\OAIP 2 sem\Lab7\MyApp.h=C:\Users\DELL\Desktop\Labs\OAIP 2 sem\Lab7\Lab7Var4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,D:\2_term_OAIP\7Lab\MyApp.dfm=C:\Users\User\Desktop\MyApp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,C:\Users\User\Desktop\MyApp.h=C:\Users\User\Desktop\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,D:\2_term_OAIP\7Lab\Project1.cbproj=C:\Users\User\Desktop\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,=C:\Users\User\Desktop\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,C:\Users\User\Desktop\MyApp.dfm=C:\Users\User\Desktop\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,C:\Users\DELL\Desktop\Labs\OAIP 2 sem\Lab7\MyApp.cpp=C:\Users\DELL\Desktop\Labs\OAIP 2 sem\Lab7\Lab7Var4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,=C:\Users\User\Desktop\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,=D:\2_term_OAIP\7Lab\MyMap.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,D:\2_term_OAIP\7Lab\MyApp.h=C:\Users\User\Desktop\MyApp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,=D:\2_term_OAIP\7Lab\Stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,C:\Users\DELL\Desktop\Labs\OAIP 2 sem\Lab7\MyApp.dfm=C:\Users\DELL\Desktop\Labs\OAIP 2 sem\Lab7\Lab7Var4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,D:\2_term_OAIP\7Lab\MyApp.cpp=C:\Users\User\Desktop\MyApp.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

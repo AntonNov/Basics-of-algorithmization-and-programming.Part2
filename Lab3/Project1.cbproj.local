@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.551,=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Unit1.cpp=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception_setproperty.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Users\User\Desktop\App.dfm=D:\2_term_OAIP\3Lab\App.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Users\User\Desktop\App.h=D:\2_term_OAIP\3Lab\App.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Unit1.cpp=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,=C:\Users\User\Desktop\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,C:\Users\User\Desktop\Unit1.cpp=C:\Users\User\Desktop\App.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,C:\Users\User\Desktop\Unit1.h=C:\Users\User\Desktop\App.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception.cpp=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception_setfilter.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception_setfilter.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\App.dfm=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Lab3Var4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.169,C:\Users\User\Desktop\Project1.cbproj=D:\2_term_OAIP\3Lab\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\App.cpp=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Lab3Var4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\App.h=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Lab3Var4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,C:\Users\User\Desktop\Unit1.dfm=C:\Users\User\Desktop\App.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,D:\2_term_OAIP\3Lab\Unit1.h=D:\2_term_OAIP\3Lab\List.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\User\Desktop\Project1PCH1.h=D:\2_term_OAIP\3Lab\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,=C:\Users\User\Desktop\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Unit1.h=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Unit1.h=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception_setproperty.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Users\User\Desktop\App.cpp=D:\2_term_OAIP\3Lab\App.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception.h=C:\Users\DELL\Desktop\Лабораторные mix\Плюсы\2_term_OAIP-master\2_term_OAIP-master\3Lab\Exception_setfilter.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,D:\2_term_OAIP\3Lab\Unit1.cpp=D:\2_term_OAIP\3Lab\List.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,=D:\2_term_OAIP\3Lab\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

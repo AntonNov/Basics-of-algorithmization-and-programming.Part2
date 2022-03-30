@@ -1,0 +1,70 @@
+Somebody
+M
+40
+190
+80
+something
+no habits
+200
+100
+100
+40
+30
+18
+1
+Anna
+F
+19
+155
+45
+reading
+no habits
+200
+100
+90
+60
+25
+18
+1
+Maria
+F
+20
+170
+55
+singing
+no habits
+200
+100
+90
+60
+25
+18
+1
+Andrew
+M
+22
+187
+78
+walking
+no habits
+200
+150
+70
+40
+30
+18
+1
+Anton
+M
+25
+180
+80
+no hobby
+no habit
+180
+150
+80
+50
+30
+16
+0

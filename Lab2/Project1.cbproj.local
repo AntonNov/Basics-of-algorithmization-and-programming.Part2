@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.065,D:\2_term_OAIP\2Lab\Unit1.cpp=D:\2_term_OAIP\2Lab\Candidate.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,=D:\2_term_OAIP\2Lab\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,C:\Users\User\Desktop\Project1.cbproj=D:\2_term_OAIP\2Lab\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,D:\2_term_OAIP\2Lab\MyApp.cpp=D:\2_term_OAIP\2Lab\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\User\Desktop\Unit1.h=D:\2_term_OAIP\2Lab\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\DELL\Downloads\2_term_OAIP-master\2_term_OAIP-master\2_term_OAIP-master\2Lab\Lab2Var4.cpp=C:\Users\DELL\Downloads\2_term_OAIP-master\2_term_OAIP-master\2_term_OAIP-master\2Lab\MyApp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\User\Desktop\Unit1.cpp=D:\2_term_OAIP\2Lab\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,=C:\Users\User\Desktop\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,D:\2_term_OAIP\2Lab\Unit1.h=D:\2_term_OAIP\2Lab\Candidate.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,D:\2_term_OAIP\2Lab\MyApp.dfm=D:\2_term_OAIP\2Lab\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,C:\Users\User\Desktop\Project1PCH1.h=D:\2_term_OAIP\2Lab\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Users\User\Desktop\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\DELL\Downloads\2_term_OAIP-master\2_term_OAIP-master\2_term_OAIP-master\2Lab\Lab2Var4.h=C:\Users\DELL\Downloads\2_term_OAIP-master\2_term_OAIP-master\2_term_OAIP-master\2Lab\MyApp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,D:\2_term_OAIP\2Lab\MyApp.h=D:\2_term_OAIP\2Lab\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,C:\Users\User\Desktop\Unit1.dfm=D:\2_term_OAIP\2Lab\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\DELL\Downloads\2_term_OAIP-master\2_term_OAIP-master\2_term_OAIP-master\2Lab\Lab2Var4.dfm=C:\Users\DELL\Downloads\2_term_OAIP-master\2_term_OAIP-master\2_term_OAIP-master\2Lab\MyApp.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
